@@ -36,14 +36,14 @@ export default function Home() {
       <Head>
         <title>Happy New&apos;s Company.</title>
         <meta property="og:title" content="Happy New's Company" key="title" />
-        <link rel="icon" type="image/png" href="/icons/heart-3.png" />
+        <link rel="icon" type="image/jpg" href="/meme.jpg" />
         <meta name="keywords" content="Happy, New's Company, Happy New's Company," />
         <meta name="description" content="Website for happy new's company" />
         <meta name="author" content="Kivie" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta property="og:image" content="https://nextjs-loading-nine.vercel.app/doanxem.jpg"></meta>
         <meta property="og:image:url" content="https://nextjs-loading-nine.vercel.app/doanxem.jpg"></meta>
-        <meta property="og:image:type" content="image/png" />
+        <meta property="og:image:type" content="image/jpg" />
         <meta property="og:image:width" content="100"></meta>
         <meta property="og:image:height" content="100"></meta>
         <meta property="og:type" content="website" />
