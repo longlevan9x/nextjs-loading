@@ -49,10 +49,10 @@ export default function Home() {
         <meta property="og:type" content="website" />
         <meta
           property="og:description"
-          content="Website for happy women's day and my love." />
-        <meta property="og:title" content="Happy Women's Day" />
+          content="Website for happy new's company" />
+        <meta property="og:title" content="Happy New's Company" />
       </Head>
-      
+
       <div
         className={`${geistSans.variable} ${geistMono.variable} flex items-center justify-items-center min-h-screen font-[family-name:var(--font-geist-sans)]`}
       >
