@@ -1,0 +1,6 @@
+@for $i from 6 through 20 {
+    .animate__animated.animate__delay-#{$i}s {
+        -webkit-animation-delay: calc(var(--animate-delay) * #{$i});
+        animation-delay: calc(var(--animate-delay) * #{$i});
+    }
+}
